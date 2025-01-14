@@ -1,0 +1,10 @@
+git clone <github link>
+
+cd <folder name>
+
+python -m venv venv
+
+windows: venv\scripts\activate
+linux: source venv/bin/activate
+
+pip install -r requirements.txt
